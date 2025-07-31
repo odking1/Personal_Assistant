@@ -14,7 +14,7 @@ and allows saving the data with a rating system.
 
 ## ▶ How to Run
 1. Clone the repository:
-git clone https://github.com/YourName/Personal_Assistant.git
+git clone https://github.com/odking1/Personal_Assistant.git
 
 2. Navigate into the project directory:
 cd Personal_Assistant
